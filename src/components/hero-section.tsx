@@ -11,7 +11,7 @@ import MessageImage from "../assets/images/message.png";
 export function HeroSection() {
   return (
     <section className="relative overflow-clip bg-[linear-gradient(to_bottom,#000,#200D42_34%,#4F21A1_65%,#A46EDB_82%)] bg-black py-[72px] text-white sm:py-24">
-      <div className="-translate-x-1/2 absolute top-[calc(100%-96px)] left-1/2 h-[375px] w-[750px] rounded-[100%] border border-[#B48CDE] bg-[radial-gradient(closest-side,#000_82%,#9560EB)] bg-black sm:top-[calc(100%-128px)] sm:h-[768px] sm:w-[1536px] lg:h-[1200px] lg:w-[2400px]" />
+      <div className="absolute top-[calc(100%-96px)] left-1/2 h-[375px] w-[750px] -translate-x-1/2 rounded-[100%] border border-[#B48CDE] bg-[radial-gradient(closest-side,#000_82%,#9560EB)] bg-black sm:top-[calc(100%-128px)] sm:h-[768px] sm:w-[1536px] lg:h-[1200px] lg:w-[2400px]" />
       <div className="container relative">
         <div className="flex items-center justify-center">
           <Link

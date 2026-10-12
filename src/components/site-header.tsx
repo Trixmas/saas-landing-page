@@ -65,7 +65,7 @@ export function SiteHeader() {
                   <span
                     className={cn(
                       "absolute left-0 block h-0.5 w-4 bg-foreground transition-all duration-100",
-                      openMobileNav ? "-rotate-45 top-[0.4rem]" : "top-1",
+                      openMobileNav ? "top-[0.4rem] -rotate-45" : "top-1",
                     )}
                   />
                   <span

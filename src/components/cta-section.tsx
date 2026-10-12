@@ -34,7 +34,7 @@ export function CtaSection() {
           <Image
             src={EmojiStarImage}
             alt="Emoji Star Image"
-            className="-top-[120px] absolute right-[calc(100%+24px)]"
+            className="absolute -top-[120px] right-[calc(100%+24px)]"
           />
         </motion.div>
         <h2 className="text-center font-bold text-5xl tracking-tight">
