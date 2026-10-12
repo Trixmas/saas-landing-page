@@ -1,10 +1,10 @@
 export const siteConfig = {
   name: "SaaS Landing Page",
   description: "A beautiful dark landing page for a SaaS application.",
-  creator: "MrInspection",
+  creator: "Trixmas",
   links: {
-    repositoryUrl: "https://github.com/MrInspection/saas-landing-page",
-    creatorGithubUrl: "https://github.com/MrInspection/",
+    repositoryUrl: "https://github.com/Trixmas/saas-landing-page",
+    creatorGithubUrl: "https://github.com/Trixmas",
     deploymentUrl: "https://splabs-saas-lp.vercel.app/",
   },
   openGraph: {
@@ -13,7 +13,7 @@ export const siteConfig = {
     imageHeight: 630,
   },
   twitter: {
-    creator: "@MrInspection",
+    creator: "@Trixmas",
     cardType: "summary_large_image",
     imageUrl: "https://splabs-saas-lp.vercel.app/og-image.png",
   },
